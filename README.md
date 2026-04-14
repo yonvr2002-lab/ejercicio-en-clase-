@@ -47,6 +47,11 @@ model = YOLO("yolov8n.pt")
 ```bash
 !killall tcpdump
 ```
+EJECUTADO
+
+<img width="1732" height="790" alt="image" src="https://github.com/user-attachments/assets/9a442fdf-14d4-48ee-86ef-171cb78b99fc" />
+<img width="900" height="395" alt="image" src="https://github.com/user-attachments/assets/6449b533-71c6-4197-8249-9d96c0ee2a6b" />
+
 
 ---
 
@@ -80,10 +85,16 @@ for i in range(50):
 ```
 
 ---
+EJECUTADO
+
+<img width="1117" height="665" alt="image" src="https://github.com/user-attachments/assets/950dd803-b921-4927-8582-205d984a3c82" />
 
 ## 🔍 Fase 3: Análisis con Wireshark
 
 ### Archivo 1: descarga_tcp.pcap
+
+<img width="1761" height="750" alt="image" src="https://github.com/user-attachments/assets/011659f2-e62a-4dfb-bcea-560ca7bd6ec6" />
+
 
 Filtros útiles:
 
@@ -93,9 +104,14 @@ Filtros útiles:
 
 ### Archivo 2: video_udp.pcap
 
+<img width="1053" height="509" alt="image" src="https://github.com/user-attachments/assets/b653e422-e847-40de-9308-1b9361ab1674" />
+
+
 Filtrar:
 
 * `udp`
+<img width="1365" height="728" alt="image" src="https://github.com/user-attachments/assets/e3a673eb-fca4-42f1-a778-0aa1f1fbf563" />
+
 
 ---
 
